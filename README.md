@@ -21,6 +21,7 @@ npm install -g bcbf
 edge
 ```bash
 npm install -g https://github.com/daxxog/bcbf/tarball/master
+```
 
 Examples
 --------
