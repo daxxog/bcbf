@@ -12,12 +12,12 @@ Dependencies
 * imagemagick
 * gzip
 
-Install
+Install (try sudo)
 -------
 stable
 ```bash
-npm install bcbf
+npm install -g bcbf
 ```
 edge
 ```bash
-npm install https://github.com/daxxog/bcbf/tarball/master
+npm install -g https://github.com/daxxog/bcbf/tarball/master

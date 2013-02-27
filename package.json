@@ -18,6 +18,6 @@
         "async" : "*"
     },
     "bin": {
-        "bcbf" : "bcbf"
+        "bcbf" : "./bin/bcbf"
     }
 }
